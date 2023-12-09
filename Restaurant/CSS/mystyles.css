@@ -1,0 +1,28 @@
+.header {
+  background-color: rgb(10, 10, 10);
+  padding: 1px;
+  text-align: center;
+}
+
+.body{ 
+  background-repeat:no-repeat;
+  background-color: #000000;
+
+}
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: rgb(245,135,25);
+  color: black;
+}
